@@ -1,0 +1,34 @@
+[
+  {
+    "name": "iphone",
+    "price": 154,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "iphone10",
+    "price": 1154,
+    "feature": true,
+    "company": "apple"
+  },
+  {
+    "name": "watch",
+    "price": 204,
+    "company": "apple"
+  },
+  {
+    "name": "tab",
+    "price": 265,
+    "company": "samsung"
+  },
+  {
+    "name": "mi5",
+    "price": 253,
+    "company": "mi"
+  },
+  {
+    "name": "realme 11",
+    "price": 300,
+    "company": "realme"
+  }
+]

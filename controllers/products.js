@@ -105,7 +105,7 @@ const selectByPagination = async (req, res) => {
     apiData = apiData.skip(skip).limit(limit);
 
     const pro = await apiData;
-    return res.json({ data: pro, nbHits: pro.length });
+    return res.json(pro);
 }
 
 module.exports = { getAllProducts, getAllProductsName, createNewProduct, selectById, updateProduct, deleteProduct, selectByPagination };
